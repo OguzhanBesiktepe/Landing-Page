@@ -3,7 +3,7 @@
     flex-direction: column;
     background-color: #1F2937;
     color: #F9FAF8;
-    font-family: 'Roboto', sans-serif;
+    font-family: Roboto;
     padding: 10px;
 }
 
@@ -37,7 +37,8 @@
 .left-hand-side-description {
     font-size: 30px;
     font-weight: bold;
-    margin-bottom: 5px;
+    text-align: center;
+    font-family: Roboto;
 }
 
 .Description {
